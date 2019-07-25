@@ -1,12 +1,10 @@
 # HeroesOfPymoli_RLD
-I am using this project to roleplay as the lead analyst for an independent gaming developer.  All files of code are as provided in this repository.  
-The activity has been provided by the Georgia Tech Data Science and Analytics Boot Camp.
+I am using this project to roleplay as the lead analyst for an independent gaming developer.  All files of code are as provided in this repository.  This activity has been provided by the Georgia Tech Data Science and Analytics Boot Camp.
 
 #### -- Project Status: Completed
 
 ## Project Intro/Objective
-The purpose of this project is to track in game purchases by customers and report my findings.  A final report will be given with tables that show the breakdown of customer purchases.
-My goal is to provide useful insights on customer demographics in order to enhance marketing and accounting tactics for the company.
+The purpose of this project is to track in game purchases by customers and report my findings.  A final report will be given with tables that show the breakdown of customer purchases.  My goal is to provide useful insights on customer demographics in order to enhance marketing and accounting tactics for the company.
 
 ### Partner
 * Georgia Tech Data Science and Analytics
